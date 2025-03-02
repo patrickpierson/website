@@ -5,8 +5,8 @@ header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
-  url: "#why-help-vets"
-  title: "Why do we exist?"
+  url: "#our-services"
+  title: "What do we provide?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
