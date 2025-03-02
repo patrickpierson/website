@@ -16,7 +16,7 @@ As a veteran-managed organization, we understand the unique challenges faced by 
 
 ---
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+Have we caught your attention? We appreciate your feedback at this early stage of our services. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
