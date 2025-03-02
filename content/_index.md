@@ -1,12 +1,12 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Veteran IT Support, Inc."
+header_tagline_paragraph: "Veteran IT Support Inc. is a 501(c)(3) non-profit organization dedicated to supporting veteran organizations in the Washington, D.C. area. We provide essential IT services, including email setup and management, website design, development, and maintenance, and cybersecurity solutions to enhance their online presence and operational effectiveness."
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
-  url: "#the-future---today"
-  title: "Why this is awesome?"
+  url: "#why-help-vets"
+  title: "Why do we exist?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
