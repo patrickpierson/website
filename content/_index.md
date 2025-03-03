@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#our-services"
   title: "What do we provide?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+# teaser_image: "images/teaser.jpg"
 ---
 
 # Our Commitment
