@@ -18,6 +18,8 @@ title = "Veteran IT Support, Inc"
         [markup.goldmark.renderer]
             hardWraps = true
 
+googleAnalytics = "G-N5GJFM45R0"
+
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
