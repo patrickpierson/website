@@ -18,7 +18,9 @@ title = "Veteran IT Support, Inc"
         [markup.goldmark.renderer]
             hardWraps = true
 
-googleAnalytics = "G-N5GJFM45R0"
+[services]
+  [services.googleAnalytics]
+    id = 'G-N5GJFM45R0'
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
