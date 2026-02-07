@@ -18,7 +18,7 @@ As a veteran-managed organization, we understand the unique challenges faced by 
 
 # Featured Project: VFW Inventory System
 
-We don't just talk about modernization; we build it. We recently developed a **Equipment Loan Closet Inventory System** for a local VFW post.
+We don't just talk about modernization; we build it. We recently developed a **Equipment Loan Out Inventory System** for a local VFW post.
 
 **The Problem:** The post was managing thousands of dollars of equipment using paper logbooks, leading to lost items and difficult tracking.
 
