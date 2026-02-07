@@ -93,5 +93,7 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 We are dedicated to modernizing veteran organizations in the Washington, D.C. area by providing professional email, web development, and cybersecurity solutions. We are particularly proud to offer our services 100% free to veteran organizations without 501(c)(3) designation, asking only for a donation receipt in return. Let us handle your IT infrastructure so you can dedicate your energy to the mission that matters most."
 
-Patrick Pierson President, Veteran IT Support, Inc.
+Patrick Pierson
+President, Veteran IT Support, Inc.
+U.S. Army, OIF 07-08
 ---
