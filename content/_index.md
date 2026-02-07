@@ -16,6 +16,32 @@ As a veteran-managed organization, we understand the unique challenges faced by 
 
 ---
 
+# Featured Project: VFW Inventory System
+
+We don't just talk about modernization; we build it. We recently developed a **Equipment Loan Closet Inventory System** for a local VFW post.
+
+**The Problem:** The post was managing thousands of dollars of equipment using paper logbooks, leading to lost items and difficult tracking.
+
+**Our Solution:** We built a secure, mobile-first web application deployed on Google Cloud.
+
+### Key Features
+* **Mobile-Ready Dashboard:** Volunteers can check items in and out directly from their smartphones in the storage shed.
+* **Real-Time Tracking:** Instantly see what is "Available" vs "On Loan."
+* **Overdue Alerts:** The system automatically flags items past their return date in red.
+* **Privacy First:** Secure login and database protection for veteran data.
+
+### System Preview
+
+**1. The Commander's Dashboard**
+*A high-level view of all assets, featuring a dark mode for low-light environments and quick action buttons.*
+![VFW Inventory Dashboard](images/vfw-dashboard.png)
+
+**2. Mobile Checkout**
+*Optimized for touchscreens, allowing officers to issue equipment in seconds.*
+![Mobile Checkout Screen](images/vfw-mobile.png)
+
+---
+
 Have we caught your attention? We appreciate your feedback at this early stage of our services. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
@@ -25,14 +51,12 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 # Our Services
 
 ## I. Email Services
-
 * **Professional Email Setup**
 * **Email Management**
 * **Email Migration**
 * **Email Security**
 
 ## II. Website Services
-
 * **Website Design & Development**
     * Needs Assessment
     * Design & Mockups
@@ -48,7 +72,6 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 * **Search Engine Optimization (SEO)**
 
 ## III. Cybersecurity Services
-
 * **Cybersecurity Assessments**
 * **Security Audits**
 * **Vulnerability Scanning**
@@ -61,7 +84,6 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 * **Compliance Assistance**
 
 ## IV. Additional IT Services
-
 * **IT Consulting**
 * **Data Backup & Recovery**
 * **Network Setup & Maintenance**
