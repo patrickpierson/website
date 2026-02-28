@@ -27,3 +27,48 @@ td strong {
     color: #00447c; /* A strong, patriotic blue */
     font-size: 1.2rem;
 }
+
+.services-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.service-card {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+    border-top: 4px solid #00447c; /* Professional Navy Blue */
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+.service-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.service-header h3 {
+    margin: 0;
+    color: #00447c;
+}
+
+.service-icon {
+    font-size: 1.5rem;
+}
+
+.service-pop {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: #d11100; /* Subtle accent color */
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
