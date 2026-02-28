@@ -1,6 +1,6 @@
 ---
 header_brand: "Veteran IT Support, Inc."
-header_tagline_paragraph: "Bridging the digital divide for those who served. We provide enterprise-grade IT infrastructure and cybersecurity to Veteran Service Organizations in the Washington, D.C. area—completely free for non-501(c)(3) posts."
+header_tagline_paragraph: "Bridging the digital divide for those who served. We provide enterprise-grade IT infrastructure and cybersecurity to Veteran Service Organizations in the Washington, D.C. area. Core services are 100% free for veteran posts, while specialized high-level projects are offered at accessible, non-profit rates."
 header_button_cta:
   url: "#contact-form"
   title: "Modernize Your Post"
@@ -11,9 +11,9 @@ header_button_more:
 
 # Our Mission: Technology for the Mission-Focused
 
-As a veteran-owned organization, we understand that your focus should be on your comrades and your community, not troubleshooting a server or worrying about a data breach.
+As a veteran-managed organization, we understand that your focus should be on your comrades and your community, not troubleshooting a server or worrying about a data breach.
 
-We provide high-quality, professional IT and cybersecurity services tailored specifically for the VFW, American Legion, AMVETS, and other veteran service organizations. **Our services are 100% free for veteran organizations in the DC area that do not have 501(c)(3) status.** In exchange, we only ask for a donation receipt at the end of the tax year.
+We provide professional IT and cybersecurity services tailored specifically for the VFW, American Legion, AMVETS, and other veteran service organizations. **We are committed to providing essential IT services at no cost to veteran organizations in the DC area.** While core support is free in exchange for a donation receipt, we offer specialized, high-level technical projects at accessible, non-profit rates to ensure every organization has access to enterprise-grade solutions.
 
 ---
 
