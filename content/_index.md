@@ -11,9 +11,9 @@ header_button_more:
 
 # Our Mission: Technology for the Mission-Focused
 
-As a veteran-managed organization, we understand that your focus should be on your comrades and your community, not troubleshooting a server or worrying about a data breach.
+As a veteran-owned organization, we understand that your focus should be on your comrades and your community, not troubleshooting a server or worrying about a data breach.
 
-We provide high-quality, professional IT and cybersecurity services tailored specifically for the VFW, American Legion, and other veteran service organizations. **Our services are 100% free for veteran organizations in the DC area that do not have 501(c)(3) status.** In exchange, we only ask for a donation receipt at the end of the tax year.
+We provide high-quality, professional IT and cybersecurity services tailored specifically for the VFW, American Legion, AMVETS, and other veteran service organizations. **Our services are 100% free for veteran organizations in the DC area that do not have 501(c)(3) status.** In exchange, we only ask for a donation receipt at the end of the tax year.
 
 ---
 
@@ -26,11 +26,11 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
     <div>
       <h3 style="margin-top: 0; color: #00447c;">The Impact</h3>
       <ul style="padding-left: 1.2rem;">
-        <li><strong>Real-Time Visibility:</strong> Officers track thousands in assets from any smartphone.</li>
+        <li><strong>Real-Time Visibility:</strong> Officers track in assets from any smartphone.</li>
         <li><strong>Automated Accountability:</strong> System flags overdue items, reducing equipment loss.</li>
-        <li><strong>Cloud-Native:</strong> Built on Google Cloud for 99.9% uptime.</li>
+        <li><strong>Cloud-Native:</strong> Built on Google Cloud for 99.9% uptime and costs pennies a month.</li>
       </ul>
-      <p style="font-style: italic; color: #64748b; margin-top: 1.5rem;">"We’d love to give you a live tour of the prototype we built for our local partners."</p>
+      <p style="font-style: italic; color: #64748b; margin-top: 1.5rem;">"We’d love to give you a live tour of the prototype we built for our local VFW."</p>
     </div>
     <div style="display: flex; flex-direction: column; gap: 1rem;">
       <img src="images/vfw-dashboard.png" alt="Commander's Dashboard" style="border-radius: 8px; border: 1px solid #cbd5e1; shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -76,7 +76,7 @@ We’ve streamlined our offerings into four core pillars designed to make your o
 ---
 
 ### Why Partner With Us?
-* **Veteran-Owned & Operated:** We are U.S. Army veterans who speak your language.
+* **Veteran-Owned & Operated:** We are U.S. veterans who speak your language.
 * **Zero Cost for VSOs:** We remove the financial barrier to high-end technology.
 * **DC Area Focused:** Local support for the National Capital Region.
 
