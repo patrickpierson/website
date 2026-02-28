@@ -22,7 +22,7 @@ We provide high-quality, professional IT and cybersecurity services tailored spe
 We don't just fix computers; we build solutions. We recently developed a **Custom Equipment Loan-Out System** to replace outdated paper logbooks and prevent asset loss.
 
 <div style="background: #f8fafc; padding: 2rem; border-radius: 12px; border: 1px solid #e2e8f0; margin: 2rem 0;">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: start;">
     <div>
       <h3 style="margin-top: 0; color: #00447c;">The Impact</h3>
       <ul style="padding-left: 1.2rem;">
@@ -30,9 +30,11 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
         <li><strong>Automated Accountability:</strong> System flags overdue items, reducing equipment loss.</li>
         <li><strong>Cloud-Native:</strong> Built on Google Cloud for 99.9% uptime.</li>
       </ul>
+      <p style="font-style: italic; color: #64748b; margin-top: 1.5rem;">"We’d love to give you a live tour of the prototype we built for our local partners."</p>
     </div>
-    <div style="display: flex; align-items: center; justify-content: center;">
-      <p style="font-style: italic; color: #64748b; text-align: center;">"We’d love to give you a live tour of the prototype we built for our local partners."</p>
+    <div style="display: flex; flex-direction: column; gap: 1rem;">
+      <img src="images/vfw-dashboard.png" alt="Commander's Dashboard" style="border-radius: 8px; border: 1px solid #cbd5e1; shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/vfw-mobile.png" alt="Mobile Checkout Screen" style="border-radius: 8px; border: 1px solid #cbd5e1; shadow: 0 4px 6px rgba(0,0,0,0.1); max-width: 200px; align-self: center;">
     </div>
   </div>
 </div>
@@ -78,12 +80,14 @@ We’ve streamlined our offerings into four core pillars designed to make your o
 * **Zero Cost for VSOs:** We remove the financial barrier to high-end technology.
 * **DC Area Focused:** Local support for the National Capital Region.
 
-{{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Request Support ✉️" >}}
+{{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Partner with us ✉️" >}}
 
 ---
 
 "At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. Let us handle your infrastructure so you can dedicate your energy to the mission that matters most."
 
 **Patrick Pierson**  
-President, Veteran IT Support, Inc.  
+President, Veteran IT Support, Inc.
+Past Post Commander, John R. Webb VFW Post 3285
+Member, National Legislative Committee, Veterans of Foreign Wars  
 U.S. Army Veteran, OIF 07-08
