@@ -33,15 +33,43 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
 
 # Our Services
 
-We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.
+<div class="services-container">
+  <div class="service-card">
+    <div class="service-header">
+      <span class="service-icon">📧</span>
+      <h3>Managed Email</h3>
+    </div>
+    <p class="service-pop">Professional Identity</p>
+    <p>Secure, professional @yourpost.org email addresses. We handle the migration, encryption, and spam filtering.</p>
+  </div>
 
-| Service | The "Pop" | Mission Impact |
-| :--- | :--- | :--- |
-| **📧 Managed Email** | **Professional Identity** | Secure, professional @yourpost.org email addresses. We handle the migration, encryption, and spam filtering. |
-| **🛡️ Cybersecurity** | **Proactive Defense** | Vulnerability scanning, firewall management, and security audits to keep your members' data safe from threats. |
-| **📞 VoIP Phones** | **Total Connectivity** | Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call from a veteran in need. |
-| **💻 Custom Software** | **Digital Transformation** | Bespoke applications like our **Inventory System** designed to solve the specific bottlenecks of your organization. |
+  <div class="service-card">
+    <div class="service-header">
+      <span class="service-icon">🛡️</span>
+      <h3>Cybersecurity</h3>
+    </div>
+    <p class="service-pop">Proactive Defense</p>
+    <p>Vulnerability scanning, firewall management, and security audits to keep your members' data safe from threats.</p>
+  </div>
 
+  <div class="service-card">
+    <div class="service-header">
+      <span class="service-icon">📞</span>
+      <h3>VoIP Phones</h3>
+    </div>
+    <p class="service-pop">Total Connectivity</p>
+    <p>Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call.</p>
+  </div>
+
+  <div class="service-card">
+    <div class="service-header">
+      <span class="service-icon">💻</span>
+      <h3>Custom Software</h3>
+    </div>
+    <p class="service-pop">Digital Transformation</p>
+    <p>Bespoke applications like our <strong>Inventory System</strong> designed to solve your specific bottlenecks.</p>
+  </div>
+</div>
 ---
 
 ### Why Partner With Us?
