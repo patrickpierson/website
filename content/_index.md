@@ -83,10 +83,6 @@ We’ve streamlined our offerings into four core pillars designed to make your o
 
 ---
 
-{{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Request Support ✉️" >}}
-
----
-
 {{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Partner with US! ✉️" >}}
 ---
 "At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. Let us handle your infrastructure so you can dedicate your energy to the mission that matters most."
