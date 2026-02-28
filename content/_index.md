@@ -1,6 +1,6 @@
 ---
 header_brand: "Veteran IT Support, Inc."
-header_tagline_paragraph: "Bridging the digital divide for those who served. We provide enterprise-grade IT infrastructure and cybersecurity to Veteran Service Organizations in the Washington, D.C. area—completely free for non-501(c)(3) posts."
+header_tagline_paragraph: "Bridging the digital divide for those who served. We provide enterprise-grade IT infrastructure and cybersecurity to Veteran Service Organizations in the Washington, D.C. area—completely free for non-501(c)(19) posts."
 header_button_cta:
   url: "#contact-form"
   title: "Modernize Your Post"
@@ -17,7 +17,7 @@ We provide high-quality, professional IT and cybersecurity services tailored spe
 
 ---
 
-# 🚀 Featured Project: VFW Inventory System
+# 🚀 Featured Project: Inventory System
 
 We don't just fix computers; we build solutions. We recently developed a **Custom Equipment Loan-Out System** to replace outdated paper logbooks and prevent asset loss.
 
@@ -26,9 +26,9 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
     <div>
       <h3 style="margin-top: 0; color: #00447c;">The Impact</h3>
       <ul style="padding-left: 1.2rem;">
-        <li><strong>Real-Time Visibility:</strong> Officers track in assets from any smartphone.</li>
+        <li><strong>Real-Time Visibility:</strong> Officers track assets from any smartphone.</li>
         <li><strong>Automated Accountability:</strong> System flags overdue items, reducing equipment loss.</li>
-        <li><strong>Cloud-Native:</strong> Built on Google Cloud for 99.9% uptime and costs pennies a month.</li>
+        <li><strong>Cloud-Native:</strong> Built on Google Cloud for 99.9% uptime and costs pennies per month.</li>
       </ul>
       <p style="font-style: italic; color: #64748b; margin-top: 1.5rem;">"We’d love to give you a live tour of the prototype we built for our local VFW."</p>
     </div>
@@ -62,7 +62,7 @@ We’ve streamlined our offerings into four core pillars designed to make your o
   <div style="padding: 30px; border: 1px solid #e2e8f0; border-top: 5px solid #00447c; border-radius: 12px; background: #fff; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
     <h2 style="margin-top: 0; font-size: 1.5rem;">📞 VoIP Phones</h2>
     <p style="color: #00447c; font-weight: 800; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Total Connectivity</p>
-    <p style="font-size: 0.95rem; color: #475569;">Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call from a veteran in need.</p>
+    <p style="font-size: 0.95rem; color: #475569;">Cloud-based phone systems that follow you from the canteen to the field, ensuring you never miss a call from a veteran in need.</p>
   </div>
 
   <div style="padding: 30px; border: 1px solid #e2e8f0; border-top: 5px solid #059669; border-radius: 12px; background: #fff; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
@@ -80,10 +80,10 @@ We’ve streamlined our offerings into four core pillars designed to make your o
 * **Zero Cost for VSOs:** We remove the financial barrier to high-end technology.
 * **DC Area Focused:** Local support for the National Capital Region.
 
-{{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Partner with us ✉️" >}}
-
 ---
 
+{{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Partner with US! ✉️" >}}
+---
 "At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. Let us handle your infrastructure so you can dedicate your energy to the mission that matters most."
 
 **Patrick Pierson**  
