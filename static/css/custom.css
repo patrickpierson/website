@@ -1,0 +1,29 @@
+/* Make the service table look like a modern dashboard */
+table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    width: 100%;
+}
+
+tr {
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    transition: transform 0.2s;
+}
+
+tr:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+}
+
+td {
+    padding: 20px;
+    border: none !important;
+}
+
+/* Style the service titles */
+td strong {
+    color: #00447c; /* A strong, patriotic blue */
+    font-size: 1.2rem;
+}

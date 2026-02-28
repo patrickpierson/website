@@ -1,99 +1,59 @@
 ---
 header_brand: "Veteran IT Support, Inc."
-header_tagline_paragraph: "Veteran IT Support Inc. is a 501(c)(3) non-profit organization dedicated to supporting veteran organizations in the Washington, D.C. area. We provide essential IT services, including email setup and management, website design, development, and maintenance, and cybersecurity solutions to enhance their online presence and operational effectiveness."
+header_tagline_paragraph: "Veteran IT Support Inc. is a 501(c)(3) non-profit dedicated to modernizing veteran organizations. We bridge the digital divide for VSOs in the Washington, D.C. area, providing the enterprise-grade IT infrastructure usually reserved for big tech—completely free for non-501(c)(3) veteran posts."
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: "Modernize Your Post"
 header_button_more:
   url: "#our-services"
-  title: "What do we provide?"
+  title: "View Our Capabilities"
 # teaser_image: "images/teaser.jpg"
 ---
 
-# Our Commitment
+# Our Mission
 
-As a veteran-managed organization, we understand the unique challenges faced by veteran non-profits. We are committed to providing high-quality, affordable IT and cybersecurity services tailored to meet most veteran orgainzations. Our goal is to empower your organization through technology, allowing you to focus on serving the veteran community. Services are 100% free for any veteran organization in the DC area that does not fall under the 501(c)(3) designation. All we ask is for a donation receipt at the end of the tax year. Use our [contact form](#contact-form) so you can get in touch.
+As a veteran-managed organization, we understand that your focus should be on your comrades and your community, not troubleshooting a server or worrying about a data breach. 
+
+We provide high-quality, professional IT and cybersecurity services tailored specifically for the VFW, American Legion, and other veteran service organizations. **Our services are 100% free for veteran organizations in the DC area that do not have 501(c)(3) status.** In exchange, we only ask for a donation receipt at the end of the tax year.
 
 ---
 
 # Featured Project: VFW Inventory System
 
-We don't just talk about modernization; we build it. We recently developed a **Equipment Loan Out Inventory System** for a local VFW post.
+We don't just fix computers; we build solutions. We recently developed a **Custom Equipment Loan-Out System** to replace outdated paper logbooks.
 
-**The Problem:** The post was managing thousands of dollars of equipment using paper logbooks, leading to lost items and difficult tracking.
+**The Impact:**
+* **Real-Time Visibility:** Officers can track thousands of dollars in assets from any smartphone.
+* **Automated Accountability:** The system automatically flags overdue items, reducing equipment loss.
+* **Cloud-Native:** Built on Google Cloud for 99.9% uptime and enterprise security.
 
-**Our Solution:** We built a secure, mobile-first web application deployed on Google Cloud.
-
-### Key Features
-* **Mobile-Ready Dashboard:** Volunteers can check items in and out directly from their smartphones in the storage shed.
-* **Real-Time Tracking:** Instantly see what is "Available" vs "On Loan."
-* **Overdue Alerts:** The system automatically flags items past their return date in red.
-* **Privacy First:** Secure login and database protection for veteran data.
-
-### System Preview
-
-**1. The Commander's Dashboard**
-*A high-level view of all assets, featuring a dark mode for low-light environments and quick action buttons.*
-![VFW Inventory Dashboard](images/vfw-dashboard.png)
-
-**2. Mobile Checkout**
-*Optimized for touchscreens, allowing officers to issue equipment in seconds.*
-![Mobile Checkout Screen](images/vfw-mobile.png)
-
----
-
-Have we caught your attention? We appreciate your feedback at this early stage of our services. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
-
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+> "If you're interested, we'd love to give you a live tour of the prototype we built for our local partners."
 
 ---
 
 # Our Services
 
-## I. Email Services
-* **Professional Email Setup**
-* **Email Management**
-* **Email Migration**
-* **Email Security**
+We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.
 
-## II. Website Services
-* **Website Design & Development**
-    * Needs Assessment
-    * Design & Mockups
-    * CMS Integration
-    * Mobile Responsiveness
-    * Accessibility
-* **Website Maintenance**
-    * Regular Updates
-    * Security Monitoring
-    * Content Updates (Optional)
-    * Technical Support
-* **Website Hosting**
-* **Search Engine Optimization (SEO)**
+| Service | The "Pop" | Mission Impact |
+| :--- | :--- | :--- |
+| **📧 Managed Email** | **Professional Identity** | Secure, professional @yourpost.org email addresses. We handle the migration, encryption, and spam filtering. |
+| **🛡️ Cybersecurity** | **Proactive Defense** | Vulnerability scanning, firewall management, and security audits to keep your members' data safe from threats. |
+| **📞 VoIP Phones** | **Total Connectivity** | Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call from a veteran in need. |
+| **💻 Custom Software** | **Digital Transformation** | Bespoke applications like our **Inventory System** designed to solve the specific bottlenecks of your organization. |
 
-## III. Cybersecurity Services
-* **Cybersecurity Assessments**
-* **Security Audits**
-* **Vulnerability Scanning**
-* **Firewall Management**
-* **Intrusion Detection/Prevention**
-* **Data Encryption**
-* **Endpoint Security**
-* **Security Awareness Training**
-* **Incident Response Planning**
-* **Compliance Assistance**
-
-## IV. Additional IT Services
-* **IT Consulting**
-* **Data Backup & Recovery**
-* **Network Setup & Maintenance**
-* **Software Installation & Support**
-
-"At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. As a veteran-owned 501(c)(3), we understand that your focus needs to be on your community, not on troubleshooting email servers, managing website updates, or worrying about cyber threats.
-
-We are dedicated to modernizing veteran organizations in the Washington, D.C. area by providing professional email, web development, and cybersecurity solutions. We are particularly proud to offer our services 100% free to veteran organizations without 501(c)(3) designation, asking only for a donation receipt in return. Let us handle your IT infrastructure so you can dedicate your energy to the mission that matters most."
-
-Patrick Pierson
-President, Veteran IT Support, Inc.
-U.S. Army, OIF 07-08
 ---
+
+### Why Partner With Us?
+* **Veteran-Owned & Operated:** We are U.S. Army veterans who speak your language.
+* **Zero Cost for VSOs:** We remove the financial barrier to high-end technology.
+* **DC Area Focused:** We provide local support for organizations in the National Capital Region.
+
+{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Request Support ✉️">}}
+
+---
+
+"At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. Let us handle your IT infrastructure so you can dedicate your energy to the mission that matters most."
+
+**Patrick Pierson** President, Veteran IT Support, Inc.  
+U.S. Army Veteran, OIF 07-08
