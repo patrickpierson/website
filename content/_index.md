@@ -76,9 +76,12 @@ We’ve streamlined our offerings into four core pillars designed to make your o
 ---
 
 ### Why Partner With Us?
-* **Veteran-Owned & Operated:** We are U.S. veterans who speak your language.
-* **Zero Cost for VSOs:** We remove the financial barrier to high-end technology.
-* **DC Area Focused:** Local support for the National Capital Region.
+* **Veteran-Managed & Operated:** As U.S. Army veterans, we speak your language and understand the unique operational tempo of VSOs.
+* **No-Cost Essentials:** We eliminate financial barriers by providing core IT services free of charge for non-501(c)(3) veteran organizations.
+* **Accessible Scaling:** For organizations with complex enterprise needs, we provide specialized high-level projects at reduced, non-profit rates.
+* **DC Area Focused:** We provide local, dedicated support for organizations across the National Capital Region.
+
+{{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Request Support ✉️" >}}
 
 ---
 
