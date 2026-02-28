@@ -1,6 +1,6 @@
 ---
 header_brand: "Veteran IT Support, Inc."
-header_tagline_paragraph: "Bridging the digital divide for those who served. We provide enterprise-grade IT infrastructure and cybersecurity to Veteran Service Organizations in the Washington, D.C. area—completely free for non-501(c)(19) posts."
+header_tagline_paragraph: "Bridging the digital divide for those who served. We provide enterprise-grade IT infrastructure and cybersecurity to Veteran Service Organizations in the Washington, D.C. area—completely free for non-501(c)(3) posts."
 header_button_cta:
   url: "#contact-form"
   title: "Modernize Your Post"
