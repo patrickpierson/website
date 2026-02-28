@@ -17,6 +17,7 @@ title = "Veteran IT Support, Inc"
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
+            unsafe = true
 
 [services]
   [services.googleAnalytics]

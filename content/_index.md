@@ -32,33 +32,35 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
 ---
 # Our Services
 
-We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.
+<p>We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.</p>
 
-{{< div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8" >}}
-  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
-    ### 📧 Managed Email
-    **Professional Identity**
-    Secure, professional @yourpost.org email addresses. We handle migration, encryption, and spam filtering.
-  {{< /div >}}
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 2rem;">
+  
+  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">📧 Managed Email</h3>
+    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Professional Identity</p>
+    <p>Secure, professional @yourpost.org email addresses. We handle migration, encryption, and spam filtering.</p>
+  </div>
 
-  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
-    ### 🛡️ Cybersecurity
-    **Proactive Defense**
-    Vulnerability scanning, firewall management, and security audits to keep your members' data safe.
-  {{< /div >}}
+  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">🛡️ Cybersecurity</h3>
+    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Proactive Defense</p>
+    <p>Vulnerability scanning, firewall management, and security audits to keep your members' data safe.</p>
+  </div>
 
-  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
-    ### 📞 VoIP Phones
-    **Total Connectivity**
-    Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call.
-  {{< /div >}}
+  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">📞 VoIP Phones</h3>
+    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Total Connectivity</p>
+    <p>Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call.</p>
+  </div>
 
-  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
-    ### 💻 Custom Software
-    **Digital Transformation**
-    Bespoke applications like our **Inventory System** designed to solve your specific bottlenecks.
-  {{< /div >}}
-{{< /div >}}
+  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">💻 Custom Software</h3>
+    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Digital Transformation</p>
+    <p>Bespoke applications like our <strong>Inventory System</strong> designed to solve your specific bottlenecks.</p>
+  </div>
+
+</div>
 
 ---
 
