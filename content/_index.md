@@ -32,45 +32,33 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
 ---
 # Our Services
 
-<p>We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.</p>
+We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-  <div class="p-6 border rounded-lg shadow-sm hover:shadow-md transition-shadow border-t-4 border-t-blue-800">
-    <div class="flex items-center mb-2">
-      <span class="text-2xl mr-3">📧</span>
-      <h3 class="text-xl font-bold m-0">Managed Email</h3>
-    </div>
-    <p class="text-sm font-semibold text-blue-800 uppercase tracking-wide mb-2">Professional Identity</p>
-    <p class="text-gray-700">Secure, professional @yourpost.org email addresses. We handle the migration, encryption, and spam filtering.</p>
-  </div>
+{{< div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8" >}}
+  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
+    ### 📧 Managed Email
+    **Professional Identity**
+    Secure, professional @yourpost.org email addresses. We handle migration, encryption, and spam filtering.
+  {{< /div >}}
 
-  <div class="p-6 border rounded-lg shadow-sm hover:shadow-md transition-shadow border-t-4 border-t-blue-800">
-    <div class="flex items-center mb-2">
-      <span class="text-2xl mr-3">🛡️</span>
-      <h3 class="text-xl font-bold m-0">Cybersecurity</h3>
-    </div>
-    <p class="text-sm font-semibold text-blue-800 uppercase tracking-wide mb-2">Proactive Defense</p>
-    <p class="text-gray-700">Vulnerability scanning, firewall management, and security audits to keep your members' data safe from threats.</p>
-  </div>
+  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
+    ### 🛡️ Cybersecurity
+    **Proactive Defense**
+    Vulnerability scanning, firewall management, and security audits to keep your members' data safe.
+  {{< /div >}}
 
-  <div class="p-6 border rounded-lg shadow-sm hover:shadow-md transition-shadow border-t-4 border-t-blue-800">
-    <div class="flex items-center mb-2">
-      <span class="text-2xl mr-3">📞</span>
-      <h3 class="text-xl font-bold m-0">VoIP Phones</h3>
-    </div>
-    <p class="text-sm font-semibold text-blue-800 uppercase tracking-wide mb-2">Total Connectivity</p>
-    <p class="text-gray-700">Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call from a veteran.</p>
-  </div>
+  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
+    ### 📞 VoIP Phones
+    **Total Connectivity**
+    Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call.
+  {{< /div >}}
 
-  <div class="p-6 border rounded-lg shadow-sm hover:shadow-md transition-shadow border-t-4 border-t-blue-800">
-    <div class="flex items-center mb-2">
-      <span class="text-2xl mr-3">💻</span>
-      <h3 class="text-xl font-bold m-0">Custom Software</h3>
-    </div>
-    <p class="text-sm font-semibold text-blue-800 uppercase tracking-wide mb-2">Digital Transformation</p>
-    <p class="text-gray-700">Bespoke applications like our <strong>Inventory System</strong> designed to solve the specific bottlenecks of your organization.</p>
-  </div>
-</div>
+  {{< div class="p-6 border rounded-lg shadow-sm border-t-4 border-blue-800" >}}
+    ### 💻 Custom Software
+    **Digital Transformation**
+    Bespoke applications like our **Inventory System** designed to solve your specific bottlenecks.
+  {{< /div >}}
+{{< /div >}}
 
 ---
 
