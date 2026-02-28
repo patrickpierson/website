@@ -76,7 +76,7 @@ We’ve streamlined our offerings into four core pillars designed to make your o
 ---
 
 ### Why Partner With Us?
-* **Veteran-Managed & Operated:** As U.S. Army veterans, we speak your language and understand the unique operational tempo of VSOs.
+* **Veteran-Managed & Operated:** As U.S. veterans, we speak your language and understand the unique operational tempo of VSOs.
 * **No-Cost Essentials:** We eliminate financial barriers by providing core IT services free of charge for non-501(c)(3) veteran organizations.
 * **Accessible Scaling:** For organizations with complex enterprise needs, we provide specialized high-level projects at reduced, non-profit rates.
 * **DC Area Focused:** We provide local, dedicated support for organizations across the National Capital Region.
