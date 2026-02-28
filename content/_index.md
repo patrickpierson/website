@@ -1,63 +1,72 @@
 ---
 header_brand: "Veteran IT Support, Inc."
-header_tagline_paragraph: "Veteran IT Support Inc. is a 501(c)(3) non-profit dedicated to modernizing veteran organizations. We bridge the digital divide for VSOs in the Washington, D.C. area, providing the enterprise-grade IT infrastructure usually reserved for big tech—completely free for non-501(c)(3) veteran posts."
+header_tagline_paragraph: "Bridging the digital divide for those who served. We provide enterprise-grade IT infrastructure and cybersecurity to Veteran Service Organizations in the Washington, D.C. area—completely free for non-501(c)(3) posts."
 header_button_cta:
   url: "#contact-form"
   title: "Modernize Your Post"
 header_button_more:
   url: "#our-services"
-  title: "View Our Capabilities"
-# teaser_image: "images/teaser.jpg"
+  title: "Explore Our Capabilities"
 ---
 
-# Our Mission
+# Our Mission: Technology for the Mission-Focused
 
-As a veteran-managed organization, we understand that your focus should be on your comrades and your community, not troubleshooting a server or worrying about a data breach. 
+As a veteran-managed organization, we understand that your focus should be on your comrades and your community, not troubleshooting a server or worrying about a data breach.
 
 We provide high-quality, professional IT and cybersecurity services tailored specifically for the VFW, American Legion, and other veteran service organizations. **Our services are 100% free for veteran organizations in the DC area that do not have 501(c)(3) status.** In exchange, we only ask for a donation receipt at the end of the tax year.
 
 ---
 
-# Featured Project: VFW Inventory System
+# 🚀 Featured Project: VFW Inventory System
 
-We don't just fix computers; we build solutions. We recently developed a **Custom Equipment Loan-Out System** to replace outdated paper logbooks.
+We don't just fix computers; we build solutions. We recently developed a **Custom Equipment Loan-Out System** to replace outdated paper logbooks and prevent asset loss.
 
-**The Impact:**
-* **Real-Time Visibility:** Officers can track thousands of dollars in assets from any smartphone.
-* **Automated Accountability:** The system automatically flags overdue items, reducing equipment loss.
-* **Cloud-Native:** Built on Google Cloud for 99.9% uptime and enterprise security.
-
-> "If you're interested, we'd love to give you a live tour of the prototype we built for our local partners."
+<div style="background: #f8fafc; padding: 2rem; border-radius: 12px; border: 1px solid #e2e8f0; margin: 2rem 0;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+    <div>
+      <h3 style="margin-top: 0; color: #00447c;">The Impact</h3>
+      <ul style="padding-left: 1.2rem;">
+        <li><strong>Real-Time Visibility:</strong> Officers track thousands in assets from any smartphone.</li>
+        <li><strong>Automated Accountability:</strong> System flags overdue items, reducing equipment loss.</li>
+        <li><strong>Cloud-Native:</strong> Built on Google Cloud for 99.9% uptime.</li>
+      </ul>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <p style="font-style: italic; color: #64748b; text-align: center;">"We’d love to give you a live tour of the prototype we built for our local partners."</p>
+    </div>
+  </div>
+</div>
 
 ---
+
 # Our Services
 
-<p>We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.</p>
+We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 2.5rem;">
   
-  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">📧 Managed Email</h3>
-    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Professional Identity</p>
-    <p>Secure, professional @yourpost.org email addresses. We handle migration, encryption, and spam filtering.</p>
+  <div style="padding: 30px; border: 1px solid #e2e8f0; border-top: 5px solid #00447c; border-radius: 12px; background: #fff; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+    <h2 style="margin-top: 0; font-size: 1.5rem;">📧 Managed Email</h2>
+    <p style="color: #00447c; font-weight: 800; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Professional Identity</p>
+    <p style="font-size: 0.95rem; color: #475569;">Secure, professional @yourpost.org email addresses. We handle migration, encryption, and spam filtering so you stay compliant.</p>
   </div>
 
-  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">🛡️ Cybersecurity</h3>
-    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Proactive Defense</p>
-    <p>Vulnerability scanning, firewall management, and security audits to keep your members' data safe.</p>
+  <div style="padding: 30px; border: 1px solid #e2e8f0; border-top: 5px solid #b91c1c; border-radius: 12px; background: #fff; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+    <h2 style="margin-top: 0; font-size: 1.5rem;">🛡️ Cybersecurity</h2>
+    <p style="color: #b91c1c; font-weight: 800; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Proactive Defense</p>
+    <p style="font-size: 0.95rem; color: #475569;">Vulnerability scanning, firewall management, and security audits to keep your members' sensitive data safe from modern threats.</p>
   </div>
 
-  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">📞 VoIP Phones</h3>
-    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Total Connectivity</p>
-    <p>Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call.</p>
+  <div style="padding: 30px; border: 1px solid #e2e8f0; border-top: 5px solid #00447c; border-radius: 12px; background: #fff; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+    <h2 style="margin-top: 0; font-size: 1.5rem;">📞 VoIP Phones</h2>
+    <p style="color: #00447c; font-weight: 800; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Total Connectivity</p>
+    <p style="font-size: 0.95rem; color: #475569;">Cloud-based phone systems that follow you from the hall to the field, ensuring you never miss a call from a veteran in need.</p>
   </div>
 
-  <div style="padding: 20px; border: 1px solid #e2e8f0; border-top: 4px solid #00447c; border-radius: 8px; background: #fff; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">💻 Custom Software</h3>
-    <p style="color: #00447c; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Digital Transformation</p>
-    <p>Bespoke applications like our <strong>Inventory System</strong> designed to solve your specific bottlenecks.</p>
+  <div style="padding: 30px; border: 1px solid #e2e8f0; border-top: 5px solid #059669; border-radius: 12px; background: #fff; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+    <h2 style="margin-top: 0; font-size: 1.5rem;">💻 Custom Software</h2>
+    <p style="color: #059669; font-weight: 800; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Digital Transformation</p>
+    <p style="font-size: 0.95rem; color: #475569;">Bespoke applications like our <strong>Inventory System</strong> designed to solve the specific operational bottlenecks of your organization.</p>
   </div>
 
 </div>
@@ -67,13 +76,14 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
 ### Why Partner With Us?
 * **Veteran-Owned & Operated:** We are U.S. Army veterans who speak your language.
 * **Zero Cost for VSOs:** We remove the financial barrier to high-end technology.
-* **DC Area Focused:** We provide local support for organizations in the National Capital Region.
+* **DC Area Focused:** Local support for the National Capital Region.
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Request Support ✉️">}}
+{{< contact_form id="contact-form" placeholder="Let's build something together..." button_label="Request Support ✉️" >}}
 
 ---
 
-"At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. Let us handle your IT infrastructure so you can dedicate your energy to the mission that matters most."
+"At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. Let us handle your infrastructure so you can dedicate your energy to the mission that matters most."
 
-**Patrick Pierson** President, Veteran IT Support, Inc.  
+**Patrick Pierson**  
+President, Veteran IT Support, Inc.  
 U.S. Army Veteran, OIF 07-08
