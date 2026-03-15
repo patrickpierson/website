@@ -58,6 +58,10 @@ We are proud to provide technical leadership and infrastructure support to the f
     <img src="images/partners/vfw-post-3285.jpg" alt="VFW Partner Post 3285" style="height: 100px; width: auto; filter: grayscale(20%);">
     <p style="font-size: 0.8rem; margin-top: 0.5rem; font-weight: 600; color: #475569;">VFW Post 3285</p>
   </div>
+  <div style="text-align: center;">
+    <img src="images/partners/legion-11.jpg" alt="Legion Partner Post 11" style="height: 100px; width: auto; filter: grayscale(20%);">
+    <p style="font-size: 0.8rem; margin-top: 0.5rem; font-weight: 600; color: #475569;">FSK Post 11</p>
+  </div>
   </div>
 
 ---
