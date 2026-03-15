@@ -41,6 +41,27 @@ We don't just fix computers; we build solutions. We recently developed a **Custo
 
 ---
 
+# Our Partners in Service
+
+We are proud to provide technical leadership and infrastructure support to the following organizations. Through these partnerships, we help ensure that the digital frontline is as strong as the community it serves.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 3rem; margin: 3rem 0; opacity: 0.9;">
+  <div style="text-align: center;">
+    <img src="images/partners/vfw-md.jpg" alt="VFW Partner Department of MD" style="height: 100px; width: auto; filter: grayscale(20%);">
+    <p style="font-size: 0.8rem; margin-top: 0.5rem; font-weight: 600; color: #475569;">Department of Maryland VFW</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/partners/vfw-post-304.jpg" alt="VFW Partner Post 304" style="height: 100px; width: auto; filter: grayscale(20%);">
+    <p style="font-size: 0.8rem; margin-top: 0.5rem; font-weight: 600; color: #475569;">VFW Post 304</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/partners/vfw-post-3285.jpg" alt="VFW Partner Post 3285" style="height: 100px; width: auto; filter: grayscale(20%);">
+    <p style="font-size: 0.8rem; margin-top: 0.5rem; font-weight: 600; color: #475569;">VFW Post 3285</p>
+  </div>
+  </div>
+
+---
+
 # Our Services
 
 We’ve streamlined our offerings into four core pillars designed to make your organization more secure, professional, and efficient.
@@ -87,8 +108,7 @@ We’ve streamlined our offerings into four core pillars designed to make your o
 ---
 "At Veteran IT Support, Inc., our mission is simple: to ensure that those who serve our veterans aren’t held back by technology. Let us handle your infrastructure so you can dedicate your energy to the mission that matters most."
 
-**Patrick Pierson**  
-President, Veteran IT Support, Inc.
+**Patrick Pierson** President, Veteran IT Support, Inc.
 Past Post Commander, John R. Webb VFW Post 3285
 Member, National Legislative Committee, Veterans of Foreign Wars  
 U.S. Army Veteran, OIF 07-08
